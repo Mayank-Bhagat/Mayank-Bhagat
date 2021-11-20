@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayank-Bhagat
 - 👀 I’m interested in codding !
 - 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/mayank-bhagat-02ba9a1a0/)
 
 <!---
